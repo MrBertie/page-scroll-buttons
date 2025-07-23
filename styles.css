@@ -1,0 +1,26 @@
+.app-container .clickable-icon.page-scroll {
+  border-width: var(--border-width);
+  border-color: var(--text-normal);
+  border-style: solid;
+  border-radius: 5px;
+  box-shadow: none;
+  color: var(--text-normal);
+  position: absolute; 
+  background-color: transparent; 
+  width: 32px; 
+  opacity: 0.4;
+  &:focus, &:hover, &:active {
+    opacity: 0.8;
+  }
+} 
+
+.page-scroll-settings {
+	textarea {
+		resize: none;
+		width: 20em;
+		height: 5em;
+	}
+	select {
+		width: 5em;
+	}
+}

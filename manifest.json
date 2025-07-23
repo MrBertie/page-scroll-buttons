@@ -1,0 +1,10 @@
+{
+	"id": "page-scroll",
+	"name": "Page Scroll",
+	"version": "0.0.3",
+	"minAppVersion": "0.15.0",
+	"description": "Scroll buttons: Top | Up | Down | Bottom",
+	"author": "mrbertie",
+	"authorUrl": "https://github.com/mrbertie",
+	"isDesktopOnly": false
+}
