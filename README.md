@@ -2,7 +2,7 @@
 
 Adds buttons to scroll to top, up one page, down one page, and to bottom of the page. Good for e-ink displays like Boox tablets.
 
-Many settings can be adjusted: button size, vertical location, button spacing.
+Many settings can be adjusted: page overlap, button size, vertical location, button spacing.
 
 
 # How to install
